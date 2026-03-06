@@ -1,0 +1,5 @@
+rootProject.name = 'gr-test'
+include 'db'
+include 'api'
+include 'service'
+
